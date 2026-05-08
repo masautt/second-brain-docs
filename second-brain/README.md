@@ -2,7 +2,7 @@
 
 The top-level shell application for [sbrain.example.com](https://sbrain.example.com). Composes all second brain micro-frontend apps into a single unified interface.
 
-Part of the [Second Brain](../README.md) ecosystem. See [full architecture docs](../docs/second-brain-web.md).
+Part of the [Second Brain](../README.md) ecosystem. See [docs home](../docs/index.md) and [shell app doc](../docs/apps/second-brain-web.md).
 
 ## What it does
 

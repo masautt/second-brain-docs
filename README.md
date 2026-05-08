@@ -1,20 +1,37 @@
 # Second Brain
 
-One app for everything you. A self-hosted platform that replaces scattered spreadsheets, contacts, and notes with structured, queryable, visualized data about your own life.
+One app for everything you. A self-hosted platform that replaces scattered spreadsheets, contacts, and notes with structured, queryable, visualized data.
 
 Hosted at [sbrain.example.com](https://sbrain.example.com).
 
-## What is this?
+## Quick Navigation
 
-Second Brain is a collection of micro-frontend applications unified under a single shell. Each app owns a domain of your life:
+- [Documentation Home](./docs/index.md)
+- [Architecture Overview](./docs/architecture/overview.md)
+- [Micro-Frontend Composition](./docs/architecture/mfe.md)
+- [Data Pipeline](./docs/architecture/data-pipeline.md)
+- [Schema Overview](./docs/schema/overview.md)
+
+## Application Docs
+
+- [second-brain-web](./docs/apps/second-brain-web.md)
+- [finapp](./docs/apps/finapp.md)
+- [pinapp](./docs/apps/pinapp.md)
+- [future apps](./docs/apps/future.md)
+
+## CLI and ETL
+
+- [second-brain-scripts and finapp-etl](./docs/cli/second-brain-scripts.md)
+
+## Repo Index
+
+Second Brain is a collection of micro-frontend applications unified under a single shell:
 
 | App | Purpose |
 |-----|---------|
 | **finapp** | Financial Information Application — income, spending, investments, pay scale |
 | **pinapp** | Personal Information Application — people, relationships, family tree, contacts |
 | **minapp** | Miscellaneous Information Application — Spotify stats, personal tracking _(planned)_ |
-
-The philosophy: own your data, understand your life, escape the matrix.
 
 ## Ecosystem Overview
 
@@ -56,23 +73,6 @@ graph LR
 | [pinapp-ftree-comp](./pinapp-ftree-comp/) | MFE — Family tree & contacts |
 | [second-brain-scripts](./second-brain-scripts/) | CLI tooling for DB management & validation |
 | [second-brain-backups](./second-brain-backups/) | Git-versioned database backups |
-
-## Docs
-
-- [finapp — Financial Information Application](./docs/finapp.md)
-- [pinapp — Personal Information Application](./docs/pinapp.md)
-- [second-brain-web — Shell Application](./docs/second-brain-web.md)
-- [second-brain-scripts & finapp-etl — CLI Tooling](./docs/second-brain-scripts.md)
-- [Future Apps](./docs/future.md)
-
-## Schema
-
-- [Schema Overview](./docs/schema/overview.md)
-- [people schema — People & Relationships](./docs/schema/pinapp-people.md)
-- [property schema — Addresses & Geography](./docs/schema/pinapp-property.md)
-- [finapp_data schema — Core Finance Tables](./docs/schema/finapp-core.md)
-- [finapp_summaries / views / journal](./docs/schema/finapp-summaries.md)
-- [finapp_benchmarks — Reference Data](./docs/schema/finapp-benchmarks.md)
 
 ## Tech Stack (shared across repos)
 
