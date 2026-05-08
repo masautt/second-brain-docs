@@ -1,5 +1,7 @@
 # Second Brain
 
+![Second Brain Banner](./docs/imgs/banner.png)
+
 One app for everything you. A self-hosted platform that replaces scattered spreadsheets, contacts, and notes with structured, queryable, visualized data.
 
 Hosted at [sbrain.example.com](https://sbrain.example.com).
