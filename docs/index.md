@@ -15,6 +15,13 @@ This documentation is organized by purpose:
 - [pinapp](./apps/pinapp.md)
 - [future apps](./apps/future.md)
 
+## Components
+
+- [Component Docs Home](./comps/index.md)
+- [finapp-mou-comp](./comps/finapp-mou-comp.md)
+- [finapp-cashflow-comp](./comps/finapp-cashflow-comp.md)
+- [pinapp-ftree-comp](./comps/pinapp-ftree-comp.md)
+
 ## CLI and ETL
 
 - [second-brain-scripts and finapp-etl](./cli/second-brain-scripts.md)

@@ -66,13 +66,13 @@ graph LR
 
 | Repo | What it is |
 |------|------------|
-| [second-brain-web](./second-brain/) | Shell app — composes all MFE apps _(in progress)_ |
-| [finapp-web](./finapp-web/) | Finance app — MFE host for finapp components |
-| [finapp-mou-comp](./finapp-mou-comp/) | MFE — County pay scale / MOU visualizer |
-| [finapp-cashflow-comp](./finapp-cashflow-comp/) | MFE — Personal cashflow & housing |
-| [pinapp-ftree-comp](./pinapp-ftree-comp/) | MFE — Family tree & contacts |
-| [second-brain-scripts](./second-brain-scripts/) | CLI tooling for DB management & validation |
-| [second-brain-backups](./second-brain-backups/) | Git-versioned database backups |
+| [second-brain-web](./docs/apps/second-brain-web.md) | Shell app — composes all MFE apps _(in progress)_ |
+| [finapp-web](./docs/apps/finapp.md) | Finance app — MFE host for finapp components |
+| [finapp-mou-comp](./docs/comps/finapp-mou-comp.md) | MFE — County pay scale / MOU visualizer |
+| [finapp-cashflow-comp](./docs/comps/finapp-cashflow-comp.md) | MFE — Personal cashflow & housing |
+| [pinapp-ftree-comp](./docs/comps/pinapp-ftree-comp.md) | MFE — Family tree & contacts |
+| [second-brain-scripts](./docs/cli/second-brain-scripts.md) | CLI tooling for DB management & validation |
+| [second-brain-backups](./docs/cli/second-brain-scripts.md) | Git-versioned database backups |
 
 ## Tech Stack (shared across repos)
 

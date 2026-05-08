@@ -13,7 +13,7 @@ pinapp is the people domain of Second Brain: contacts, relationships, life event
 | Component | Purpose |
 |-----------|---------|
 | `pinapp-web` (planned) | Future host app for people-domain routes |
-| `pinapp-ftree-comp` | Family tree canvas and people details |
+| [`pinapp-ftree-comp`](../comps/pinapp-ftree-comp.md) | Family tree canvas and people details |
 
 ## Data Domains
 
@@ -21,6 +21,7 @@ Primary schemas: `people`, `property`
 
 ## Related Docs
 
+- [Component docs](../comps/index.md)
 - [people schema](../schema/pinapp-people.md)
 - [property schema](../schema/pinapp-property.md)
 - [CLI and ETL](../cli/second-brain-scripts.md)

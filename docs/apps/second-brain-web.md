@@ -26,4 +26,3 @@ Shell is in progress. `finapp-web` currently acts as the effective entry point w
 
 - [Architecture Overview](../architecture/overview.md)
 - [Micro-Frontend Composition](../architecture/mfe.md)
-- [Repo README](../../second-brain/README.md)

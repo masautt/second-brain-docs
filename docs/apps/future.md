@@ -24,7 +24,7 @@ Potential domains:
 
 | App | Repo | Status |
 |-----|------|--------|
-| `second-brain-web` | `./second-brain/` | In progress |
+| `second-brain-web` | separate repo | In progress |
 | `pinapp-web` | TBD | Planned |
 | `minapp-web` | TBD | Concept |
 | `minapp-spotify-comp` | TBD | Concept |
