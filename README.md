@@ -65,6 +65,15 @@ graph LR
 - [second-brain-scripts & finapp-etl — CLI Tooling](./docs/second-brain-scripts.md)
 - [Future Apps](./docs/future.md)
 
+## Schema
+
+- [Schema Overview](./docs/schema/overview.md)
+- [people schema — People & Relationships](./docs/schema/pinapp-people.md)
+- [property schema — Addresses & Geography](./docs/schema/pinapp-property.md)
+- [finapp_data schema — Core Finance Tables](./docs/schema/finapp-core.md)
+- [finapp_summaries / views / journal](./docs/schema/finapp-summaries.md)
+- [finapp_benchmarks — Reference Data](./docs/schema/finapp-benchmarks.md)
+
 ## Tech Stack (shared across repos)
 
 - **Frontend**: React 19, Vite, Tailwind CSS, TypeScript
