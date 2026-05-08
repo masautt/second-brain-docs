@@ -1,6 +1,6 @@
 # Database Schema Overview
 
-**Supabase Project**: redacted-project (`REDACTED_PROJECT_REF`)
+**Supabase Project**: redacted
 
 All second brain data lives in a single Supabase project split across multiple schemas by domain.
 
